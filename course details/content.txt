@@ -1,0 +1,7 @@
+git commands
+  git pull requests 
+  git status
+  introduction 
+  pep 8 guidelines
+  built in function
+ 
