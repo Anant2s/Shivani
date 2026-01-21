@@ -55,4 +55,5 @@ to create a new branch
     git checkout -b<new branch name>
 
     changes made
-    
+     git add "file name"
+     
